@@ -71,3 +71,7 @@ img {
     text-decoration: none;
     color: black;
 }
+
+.navbar h2 {
+    margin: 0;
+}
